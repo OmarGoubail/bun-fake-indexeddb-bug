@@ -1,0 +1,13 @@
+{
+  "name": "bun-fake-indexeddb-bug",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "fake-indexeddb": "^6.0.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
